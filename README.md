@@ -438,4 +438,6 @@ To cut an official release, these are the steps:
 
 2. You can then edit the release description in GitHub to describe what went into the release.
 
+
 3. After the release goes through successfully, you need to prepare the repo for the next version, which requires committing the next snapshot version on master again. So we should increment the minor version and add again the `-SNAPSHOT` suffix.
+
